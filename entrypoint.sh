@@ -6,7 +6,7 @@ DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
 UUID=f41d13f5-82f0-4807-b018-481643f9826c
-WSPATH=/dHho
+WSPATH=/tixiaohanhidden
 PORT=8080
 
 # Write V2Ray configuration
