@@ -5,9 +5,9 @@ DIR_CONFIG="/etc/v2ray"
 DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
-UUID=f41d13f5-82f0-4807-b018-481643f9826c
+UUID=c6aac7e7-1cef-4b5d-8d44-f6633889dfba
 WSPATH=/tixiaohanhidden
-PORT=8080
+PORT=443
 
 # Write V2Ray configuration
 cat << EOF > ${DIR_TMP}/heroku.json
